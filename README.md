@@ -28,13 +28,12 @@
 
 ## 👩‍💻 About Me
 
-<table width="100%">
+<table width="100%" style="background-color:#1c2333; border-top:3px solid #B08968; border-radius:10px;">
   <tr>
-    <td width="220" valign="middle" align="center" style="background-color:#1c2333; border-radius:14px; padding:0;">
-      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:14px; display:block;"/>
+    <td width="180" align="center" valign="middle" style="padding:24px 0 24px 24px;">
+      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="150" style="border-radius:12px; display:block;"/>
     </td>
-    <td width="16"></td>
-    <td valign="top" style="background-color:#1c2333; border-top:3px solid #B08968; border-radius:10px; padding:20px 28px;">
+    <td valign="middle" style="padding:24px 28px 24px 8px;">
       <h3 style="margin:0 0 2px 0; color:#E2E8F0; font-family:'Segoe UI', sans-serif; letter-spacing:0.5px;">Haarini SK</h3>
       <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer in the making</p>
       <table width="100%" cellpadding="5" cellspacing="0">
