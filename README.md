@@ -28,9 +28,20 @@
 
 ## 👩‍💻 About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Name%3A+Haarini+SK;University%3A+Vellore+Institute+of+Technology%2C+Vellore;CGPA%3A+7.97;Location%3A+Ranipet%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;Interests%3A+ML+%7C+Computer+Vision+%7C+Data+Analytics;Goal%3A+Building+Intelligent+Systems+from+Data" alt="About Typing SVG"/>
-</p>
+<table>
+<tr>
+<td style="background-color:#1c2333; border-radius:12px; padding:24px 28px;">
+
+**Name:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Haarini SK<br/>
+**University:**&nbsp;&nbsp; Vellore Institute of Technology, Vellore<br/>
+**CGPA:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.97<br/>
+**Location:**&nbsp;&nbsp;&nbsp;&nbsp; Tamil Nadu, India<br/>
+**Interests:**&nbsp;&nbsp;&nbsp; Machine Learning · Computer Vision · Data Analytics<br/>
+**Goal:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building intelligent systems from data
+
+</td>
+</tr>
+</table>
 
 ---
 
