@@ -59,35 +59,25 @@ at <b>VIT Vellore</b>. Passionate about Machine Learning, Computer Vision,
 and Data Analytics, I enjoy building intelligent systems that solve
 real-world problems through data-driven innovation.
 </p>
-
 <p>
 I continuously explore emerging technologies and develop impactful
 solutions that bridge the gap between data, technology, and human needs.
 </p>
 
 <h3>🎓 Academic Profile</h3>
-
 <b>University:</b> Vellore Institute of Technology (VIT), Vellore<br> <b>Degree:</b> Integrated M.Tech – Data Science Engineering<br> <b>CGPA:</b> 7.97<br> <b>Location:</b> Tamil Nadu, India
-
 <br>
-
 <h3>🔬 Areas of Interest</h3>
-
 • Machine Learning<br>
 • Computer Vision<br>
 • Data Analytics<br>
 • Artificial Intelligence<br>
 • Intelligent Systems
-
 <br>
-
 <h3>🎯 Career Goal</h3>
-
 Building AI-powered solutions that transform raw data into actionable
 insights and create meaningful real-world impact.
-
 </td>
-
 </tr>
 </table>
 
