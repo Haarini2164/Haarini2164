@@ -28,7 +28,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif"/>
 
 ```python
 class Haarini:
