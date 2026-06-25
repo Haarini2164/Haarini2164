@@ -39,78 +39,54 @@
 
 <br><br>
 
-<h2>HAARINI SK</h2>
+<h2>HAARINI SK</h2> 
 
 <p>
 <b>Data Science Engineer in the Making</b>
 </p>
-
 <p>
 🎓 VIT Vellore <br>
 📊 CGPA: 7.97
 </p>
-
 </td>
-
 <!-- RIGHT SIDE -->
-
 <td width="60%" valign="top">
-
 <h2>👋 Hello, I'm Haarini</h2>
-
 <p>
 I am currently pursuing an <b>Integrated M.Tech in Data Science Engineering</b>
 at <b>VIT Vellore</b>. Passionate about transforming data into impactful
 solutions, I enjoy exploring Machine Learning, Computer Vision, and
 Data Analytics to solve real-world problems.
 </p>
-
 <p>
 My goal is to build intelligent systems that combine data, technology,
 and innovation to create meaningful user experiences and business value.
 </p>
-
 <br>
-
 <h3>🎓 Academic Profile</h3>
-
 <b>University</b><br>
 Vellore Institute of Technology (VIT), Vellore
-
 <br><br>
-
 <b>Degree</b><br>
 Integrated M.Tech – Data Science Engineering
-
 <br><br>
-
 <b>Current CGPA</b><br>
 7.97
-
 <br><br>
-
 <b>Location</b><br>
 Tamil Nadu, India
-
 <br>
-
 <h3>🔬 Areas of Interest</h3>
-
 • Machine Learning <br>
 • Computer Vision <br>
 • Data Analytics <br>
 • Artificial Intelligence <br>
 • Intelligent Systems
-
 <br>
-
 <h3>🎯 Career Goal</h3>
-
 Building AI-powered solutions that transform raw data into actionable
 insights and real-world impact.
-
 </td>
-
 </tr>
 </table>
 
