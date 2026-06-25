@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=750&lines=Data+Science+Engineer+%7C+VIT+Vellore;ML+%2B+Deep+Learning+%2B+Computer+Vision;Building+Intelligent+Systems+from+Data;Turning+Raw+Data+into+Real+Impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=750&lines=Data+Science+Engineer+%7C+VIT+Vellore;Turning+Raw+Data+into+Real+Impact" alt="Typing SVG"/>
 </p>
 
 ---
