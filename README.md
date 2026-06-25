@@ -31,12 +31,12 @@
 <table width="100%">
   <tr>
     <td width="220" valign="middle" align="center" style="background-color:#1c2333; border-radius:14px; padding:0;">
-      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:14px; display:block;"/>
+      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:16px; display:block;"/>
     </td>
     <td width="16"></td>
     <td valign="top" style="background-color:#1c2333; border-top:3px solid #B08968; border-radius:10px; padding:20px 28px;">
       <h3 style="margin:0 0 2px 0; color:#E2E8F0; font-family:'Segoe UI', sans-serif; letter-spacing:0.5px;">Haarini SK</h3>
-      <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer in the making</p>
+      <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer </p>
       <table width="100%" cellpadding="5" cellspacing="0">
         <tr>
           <td width="30" valign="top">🎓</td>
