@@ -35,58 +35,59 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="320"/>
+<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="340"/>
 
 <br><br>
 
-<h2>HAARINI SK</h2> 
+<h2>HAARINI SK</h2>
 
 <p>
 <b>Data Science Engineer in the Making</b>
 </p>
-<p>
-🎓 VIT Vellore <br>
-📊 CGPA: 7.97
-</p>
+
 </td>
+
 <!-- RIGHT SIDE -->
+
 <td width="60%" valign="top">
+
 <h2>👋 Hello, I'm Haarini</h2>
+
 <p>
 I am currently pursuing an <b>Integrated M.Tech in Data Science Engineering</b>
-at <b>VIT Vellore</b>. Passionate about transforming data into impactful
-solutions, I enjoy exploring Machine Learning, Computer Vision, and
-Data Analytics to solve real-world problems.
+at <b>VIT Vellore</b>. Passionate about Machine Learning, Computer Vision,
+and Data Analytics, I enjoy building intelligent systems that solve
+real-world problems through data-driven innovation.
 </p>
+
 <p>
-My goal is to build intelligent systems that combine data, technology,
-and innovation to create meaningful user experiences and business value.
+I continuously explore emerging technologies and develop impactful
+solutions that bridge the gap between data, technology, and human needs.
 </p>
-<br>
+
 <h3>🎓 Academic Profile</h3>
-<b>University</b><br>
-Vellore Institute of Technology (VIT), Vellore
-<br><br>
-<b>Degree</b><br>
-Integrated M.Tech – Data Science Engineering
-<br><br>
-<b>Current CGPA</b><br>
-7.97
-<br><br>
-<b>Location</b><br>
-Tamil Nadu, India
+
+<b>University:</b> Vellore Institute of Technology (VIT), Vellore<br> <b>Degree:</b> Integrated M.Tech – Data Science Engineering<br> <b>CGPA:</b> 7.97<br> <b>Location:</b> Tamil Nadu, India
+
 <br>
+
 <h3>🔬 Areas of Interest</h3>
-• Machine Learning <br>
-• Computer Vision <br>
-• Data Analytics <br>
-• Artificial Intelligence <br>
+
+• Machine Learning<br>
+• Computer Vision<br>
+• Data Analytics<br>
+• Artificial Intelligence<br>
 • Intelligent Systems
+
 <br>
+
 <h3>🎯 Career Goal</h3>
+
 Building AI-powered solutions that transform raw data into actionable
-insights and real-world impact.
+insights and create meaningful real-world impact.
+
 </td>
+
 </tr>
 </table>
 
