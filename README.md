@@ -26,25 +26,25 @@
 
 ---
 
-## 👩‍💻 About Me
-
 <table width="100%">
 <tr>
 
-<td width="35%" align="center">
+<td width="40%" align="center">
 
 <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg"
-width="250"/>
+width="300"/>
 
 <br><br>
 
-<h3>Haarini SK</h3>
+<h2>HAARINI SK</h2>
 
-<i>Data Science Engineer in the Making</i>
+<h3>
+Data Science Engineer in the Making
+</h3>
 
 </td>
 
-<td width="65%" valign="top">
+<td width="60%" valign="middle">
 
 ### 🎓 Academic Profile
 
