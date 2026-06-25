@@ -30,31 +30,44 @@
 
 <table width="100%">
 <tr>
-<td width="25%" align="center">
 
-<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="180"/>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg"
+width="250"/>
+
+<br><br>
+
+<h3>Haarini SK</h3>
+
+<i>Data Science Engineer in the Making</i>
+
+</td>
+
+<td width="65%" valign="top">
+
+### 🎓 Academic Profile
+
+| | |
+|---|---|
+| **University** | VIT Vellore |
+| **Degree** | Integrated M.Tech – Data Science |
+| **CGPA** | 7.97 |
+| **Location** | Tamil Nadu, India |
+
+### 🔬 Interests
+
+- Machine Learning
+- Computer Vision
+- Data Analytics
+- Intelligent Systems
+
+### 🎯 Career Goal
+
+Building intelligent AI-powered systems that transform raw data into meaningful solutions and real-world impact.
 
 </td>
 
-<td width="75%" valign="top">
-
-# Haarini SK
-
-**Data Science Engineer in the making**
-
-🎓 **University:** Vellore Institute of Technology, Vellore
-
-📊 **CGPA:** 7.97
-
-📍 **Location:** Tamil Nadu, India
-
-🔬 **Interests:** Machine Learning • Computer Vision • Data Analytics
-
-🎯 **Goal:** Building intelligent systems from data
-
-💡 Passionate about transforming raw data into impactful solutions through AI, Machine Learning, and Data-driven systems.
-
-</td>
 </tr>
 </table>
 ---
