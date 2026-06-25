@@ -28,19 +28,44 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td style="background-color:#1c2333; border-radius:12px; padding:24px 28px;">
-
-**Name:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Haarini SK<br/>
-**University:**&nbsp;&nbsp; Vellore Institute of Technology, Vellore<br/>
-**CGPA:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.97<br/>
-**Location:**&nbsp;&nbsp;&nbsp;&nbsp; Tamil Nadu, India<br/>
-**Interests:**&nbsp;&nbsp;&nbsp; Machine Learning · Computer Vision · Data Analytics<br/>
-**Goal:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building intelligent systems from data
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="220" valign="middle" align="center" style="background-color:#1c2333; border-radius:14px; padding:0;">
+      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:14px; display:block;"/>
+    </td>
+    <td width="16"></td>
+    <td valign="top" style="background-color:#1c2333; border-top:3px solid #B08968; border-radius:10px; padding:20px 28px;">
+      <h3 style="margin:0 0 2px 0; color:#E2E8F0; font-family:'Segoe UI', sans-serif; letter-spacing:0.5px;">Haarini SK</h3>
+      <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer in the making</p>
+      <table width="100%" cellpadding="5" cellspacing="0">
+        <tr>
+          <td width="30" valign="top">🎓</td>
+          <td width="120" valign="top"><b style="color:#B08968;">University</b></td>
+          <td valign="top" style="color:#E2E8F0;">Vellore Institute of Technology, Vellore</td>
+        </tr>
+        <tr>
+          <td valign="top">📊</td>
+          <td valign="top"><b style="color:#B08968;">CGPA</b></td>
+          <td valign="top" style="color:#E2E8F0;">7.97</td>
+        </tr>
+        <tr>
+          <td valign="top">📍</td>
+          <td valign="top"><b style="color:#B08968;">Location</b></td>
+          <td valign="top" style="color:#E2E8F0;">Tamil Nadu, India</td>
+        </tr>
+        <tr>
+          <td valign="top">🔬</td>
+          <td valign="top"><b style="color:#B08968;">Interests</b></td>
+          <td valign="top" style="color:#E2E8F0;">Machine Learning · Computer Vision · Data Analytics</td>
+        </tr>
+        <tr>
+          <td valign="top">🎯</td>
+          <td valign="top"><b style="color:#B08968;">Goal</b></td>
+          <td valign="top" style="color:#E2E8F0;">Building intelligent systems from data</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 ---
