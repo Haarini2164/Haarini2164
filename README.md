@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=HAARINI%20SK&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20Engineer%20%E2%80%94%20ML%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descAlignY=65&descSize=16&fontStyle=bold" width="100%"/>
 </p>
-
+ 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Haarini2164&color=10B981&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=Haarini2164&color=10B981&style=flat-square&label=Profile+Views"/>
