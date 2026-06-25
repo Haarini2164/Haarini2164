@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=HAARINI%20SK&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20Engineer%20%E2%80%94%20ML%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descAlignY=65&descSize=16&fontStyle=bold" width="100%"/>
 </p>
- 
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Haarini2164&color=10B981&style=flat-square&label=Profile+Views">
     <img src="https://komarev.com/ghpvc/?username=Haarini2164&color=10B981&style=flat-square&label=Profile+Views"/>
@@ -28,52 +28,9 @@
 
 ## 👩‍💻 About Me
 
-<!-- Mobile-friendly: image stacks below code on small screens via block display -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="380" style="border-radius:12px; max-width:100%;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Name%3A+Haarini+SK;University%3A+Vellore+Institute+of+Technology%2C+Vellore;CGPA%3A+7.97;Location%3A+Ranipet%2C+Tamil+Nadu+%F0%9F%87%AE%F0%9F%87%B3;Interests%3A+ML+%7C+Computer+Vision+%7C+Data+Analytics;Goal%3A+Building+Intelligent+Systems+from+Data" alt="About Typing SVG"/>
 </p>
-
-```python
-class Haarini:
-    def __init__(self):
-        self.name        = "Haarini SK"
-        self.location    = "Chennai, Tamil Nadu, India"
-        self.degree      = "M.Tech Integrated — Data Science Engineering"
-        self.institution = "Vellore Institute of Technology, Vellore"
-        self.cgpa        = 7.97
-        self.graduating  = 2027
-
-        self.stack = [
-            "Python", "TensorFlow", "PyTorch",
-            "Scikit-learn", "OpenCV", "Streamlit",
-            "SQL", "Power BI", "Next.js", "Node.js"
-        ]
-
-        self.currently_learning = [
-            "Transformer Architectures & ViT",
-            "MLOps & Model Deployment",
-            "Advanced Computer Vision (YOLO, SAM)",
-            "Azure AI Services"
-        ]
-
-        self.interests = [
-            "Machine Learning", "Computer Vision",
-            "Data Analytics", "UI/UX Design",
-            "Full-Stack Development"
-        ]
-
-        self.fun_fact = (
-            "I debug ML models & design UIs — "
-            "both sides of the brain, always on."
-        )
-
-    def motto(self) -> str:
-        return "Data speaks. I make sure it's heard."
-
-me = Haarini()
-print(me.motto())
-# → Data speaks. I make sure it's heard.
-```
 
 ---
 
@@ -198,18 +155,6 @@ print(me.motto())
 | Secondary School — Grade 10 | — | 2019 – 2020 | **90%** |
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-```
-🤖  Transformer Architectures  →  Attention, BERT, ViT, Hugging Face
-☁️   MLOps & Model Deployment   →  Model serving, CI/CD for ML, monitoring
-👁️   Advanced Computer Vision   →  YOLOv8, Segment Anything Model (SAM)
-🔷  Azure AI Services           →  Cognitive Services, Azure ML Studio
-📊  Statistical Modeling        →  Bayesian inference, causal analysis
-```
 
 ---
 
