@@ -26,44 +26,60 @@
 
 ---
 
-<table width="100%">
-<tr>
+## 👩‍💻 About Me
 
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg"
-width="300"/>
-
-<br><br>
-
-<h2>HAARINI SK</h2>
-
-<h3>
-Data Science Engineer in the Making
-<h3>🎓 Academic Profile</h3>
-
-<ul>
-<li><b>University:</b> VIT Vellore</li>
-<li><b>Degree:</b> Integrated M.Tech – Data Science Engineering</li>
-<li><b>CGPA:</b> 7.97</li>
-<li><b>Location:</b> Tamil Nadu, India</li>
-</ul>
-
-### 🔬 Interests
-
-- Machine Learning
-- Computer Vision
-- Data Analytics
-- Intelligent Systems
-
-### 🎯 Career Goal
-
-Building intelligent AI-powered systems that transform raw data into meaningful solutions and real-world impact.
-
-</td>
-
-</tr>
+<table width="100%" style="background-color:#161b29; border-radius:14px; overflow:hidden;">
+  <tr>
+    <td colspan="2" style="background-color:#1c2333; border-bottom:1px solid #2d3548; padding:0;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="160" align="center" valign="middle" style="padding:26px 0 26px 26px;">
+            <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="130" height="130" style="border-radius:50%; border:3px solid #B08968; object-fit:cover; display:block;"/>
+          </td>
+          <td valign="middle" style="padding:26px 28px 26px 12px;">
+            <h2 style="margin:0 0 6px 0; color:#F1F5F9; font-family:'Segoe UI', sans-serif; font-size:24px; letter-spacing:0.3px;">Haarini SK</h2>
+            <span style="display:inline-block; background-color:#B08968; color:#1c2333; font-size:12px; font-weight:700; padding:4px 12px; border-radius:20px; letter-spacing:0.4px;">DATA SCIENCE ENGINEER</span>
+            <p style="margin:12px 0 0 0; color:#94A3B8; font-size:14px; line-height:1.5;">Turning raw data into intelligent, real-world systems.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding:22px 30px 26px 30px;">
+      <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="50%" valign="top" style="padding:10px 14px 10px 0; border-bottom:1px solid #2d3548;">
+            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🎓&nbsp;&nbsp;UNIVERSITY</p>
+            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Vellore Institute of Technology, Vellore</p>
+          </td>
+          <td width="50%" valign="top" style="padding:10px 0 10px 14px; border-bottom:1px solid #2d3548;">
+            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">📊&nbsp;&nbsp;CGPA</p>
+            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">7.97</p>
+          </td>
+        </tr>
+        <tr>
+          <td width="50%" valign="top" style="padding:14px 14px 10px 0; border-bottom:1px solid #2d3548;">
+            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">📍&nbsp;&nbsp;LOCATION</p>
+            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Tamil Nadu, India</p>
+          </td>
+          <td width="50%" valign="top" style="padding:14px 0 10px 14px; border-bottom:1px solid #2d3548;">
+            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🎯&nbsp;&nbsp;GOAL</p>
+            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Building intelligent systems from data</p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" valign="top" style="padding:14px 0 0 0;">
+            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🔬&nbsp;&nbsp;INTERESTS</p>
+            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Machine Learning&nbsp;&nbsp;·&nbsp;&nbsp;Computer Vision&nbsp;&nbsp;·&nbsp;&nbsp;Data Analytics</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
+
+---
 
 ---
 
