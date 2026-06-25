@@ -40,20 +40,14 @@ width="300"/>
 
 <h3>
 Data Science Engineer in the Making
-</h3>
+<h3>🎓 Academic Profile</h3>
 
-</td>
-
-<td width="60%" valign="middle">
-
-### 🎓 Academic Profile
-
-| | |
-|---|---|
-| **University** | VIT Vellore |
-| **Degree** | Integrated M.Tech – Data Science |
-| **CGPA** | 7.97 |
-| **Location** | Tamil Nadu, India |
+<ul>
+<li><b>University:</b> VIT Vellore</li>
+<li><b>Degree:</b> Integrated M.Tech – Data Science Engineering</li>
+<li><b>CGPA:</b> 7.97</li>
+<li><b>Location:</b> Tamil Nadu, India</li>
+</ul>
 
 ### 🔬 Interests
 
