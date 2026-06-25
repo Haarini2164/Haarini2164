@@ -49,6 +49,7 @@ width="250"/>
 ### 🎓 Academic Profile
 
 | | |
+|---|
 | **University** | VIT Vellore |
 | **Degree** | Integrated M.Tech – Data Science |
 | **CGPA** | 7.97 |
