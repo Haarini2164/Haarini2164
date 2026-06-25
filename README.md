@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=HAARINI%20SK&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20Engineer%20%E2%80%94%20ML%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descAlignY=65&descSize=16&fontStyle=bold" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:475569,100:B08968&height=200&section=header&text=HAARINI%20SK&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Science%20Engineer%20%E2%80%94%20ML%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descAlignY=65&descSize=16&fontStyle=bold" width="100%"/>
 </p>
 
 <p align="center">
@@ -31,12 +31,12 @@
 <table width="100%">
   <tr>
     <td width="220" valign="middle" align="center" style="background-color:#1c2333; border-radius:14px; padding:0;">
-      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:16px; display:block;"/>
+      <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="200" style="border-radius:14px; display:block;"/>
     </td>
     <td width="16"></td>
     <td valign="top" style="background-color:#1c2333; border-top:3px solid #B08968; border-radius:10px; padding:20px 28px;">
       <h3 style="margin:0 0 2px 0; color:#E2E8F0; font-family:'Segoe UI', sans-serif; letter-spacing:0.5px;">Haarini SK</h3>
-      <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer </p>
+      <p style="margin:0 0 14px 0; color:#94A3B8; font-size:14px; font-style:italic;">Data Science Engineer in the making</p>
       <table width="100%" cellpadding="5" cellspacing="0">
         <tr>
           <td width="30" valign="top">🎓</td>
@@ -218,5 +218,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=130&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:475569,100:B08968&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
