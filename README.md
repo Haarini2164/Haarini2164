@@ -28,58 +28,91 @@
 
 ## 👩‍💻 About Me
 
-<table width="100%" style="background-color:#161b29; border-radius:14px; overflow:hidden;">
-  <tr>
-    <td colspan="2" style="background-color:#1c2333; border-bottom:1px solid #2d3548; padding:0;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="160" align="center" valign="middle" style="padding:26px 0 26px 26px;">
-            <img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="130" height="130" style="border-radius:50%; border:3px solid #B08968; object-fit:cover; display:block;"/>
-          </td>
-          <td valign="middle" style="padding:26px 28px 26px 12px;">
-            <h2 style="margin:0 0 6px 0; color:#F1F5F9; font-family:'Segoe UI', sans-serif; font-size:24px; letter-spacing:0.3px;">Haarini SK</h2>
-            <span style="display:inline-block; background-color:#B08968; color:#1c2333; font-size:12px; font-weight:700; padding:4px 12px; border-radius:20px; letter-spacing:0.4px;">DATA SCIENCE ENGINEER</span>
-            <p style="margin:12px 0 0 0; color:#94A3B8; font-size:14px; line-height:1.5;">Turning raw data into intelligent, real-world systems.</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding:22px 30px 26px 30px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td width="50%" valign="top" style="padding:10px 14px 10px 0; border-bottom:1px solid #2d3548;">
-            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🎓&nbsp;&nbsp;UNIVERSITY</p>
-            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Vellore Institute of Technology, Vellore</p>
-          </td>
-          <td width="50%" valign="top" style="padding:10px 0 10px 14px; border-bottom:1px solid #2d3548;">
-            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">📊&nbsp;&nbsp;CGPA</p>
-            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">7.97</p>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%" valign="top" style="padding:14px 14px 10px 0; border-bottom:1px solid #2d3548;">
-            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">📍&nbsp;&nbsp;LOCATION</p>
-            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Tamil Nadu, India</p>
-          </td>
-          <td width="50%" valign="top" style="padding:14px 0 10px 14px; border-bottom:1px solid #2d3548;">
-            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🎯&nbsp;&nbsp;GOAL</p>
-            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Building intelligent systems from data</p>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" valign="top" style="padding:14px 0 0 0;">
-            <p style="margin:0; color:#64748B; font-size:11px; font-weight:700; letter-spacing:1px;">🔬&nbsp;&nbsp;INTERESTS</p>
-            <p style="margin:5px 0 0 0; color:#E2E8F0; font-size:14px;">Machine Learning&nbsp;&nbsp;·&nbsp;&nbsp;Computer Vision&nbsp;&nbsp;·&nbsp;&nbsp;Data Analytics</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<table width="100%">
+<tr>
 
----
+<!-- LEFT SIDE -->
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Haarini2164/Haarini2164/main/girl-coding.jpg" width="320"/>
+
+<br><br>
+
+<h2>HAARINI SK</h2>
+
+<p>
+<b>Data Science Engineer in the Making</b>
+</p>
+
+<p>
+🎓 VIT Vellore <br>
+📊 CGPA: 7.97
+</p>
+
+</td>
+
+<!-- RIGHT SIDE -->
+
+<td width="60%" valign="top">
+
+<h2>👋 Hello, I'm Haarini</h2>
+
+<p>
+I am currently pursuing an <b>Integrated M.Tech in Data Science Engineering</b>
+at <b>VIT Vellore</b>. Passionate about transforming data into impactful
+solutions, I enjoy exploring Machine Learning, Computer Vision, and
+Data Analytics to solve real-world problems.
+</p>
+
+<p>
+My goal is to build intelligent systems that combine data, technology,
+and innovation to create meaningful user experiences and business value.
+</p>
+
+<br>
+
+<h3>🎓 Academic Profile</h3>
+
+<b>University</b><br>
+Vellore Institute of Technology (VIT), Vellore
+
+<br><br>
+
+<b>Degree</b><br>
+Integrated M.Tech – Data Science Engineering
+
+<br><br>
+
+<b>Current CGPA</b><br>
+7.97
+
+<br><br>
+
+<b>Location</b><br>
+Tamil Nadu, India
+
+<br>
+
+<h3>🔬 Areas of Interest</h3>
+
+• Machine Learning <br>
+• Computer Vision <br>
+• Data Analytics <br>
+• Artificial Intelligence <br>
+• Intelligent Systems
+
+<br>
+
+<h3>🎯 Career Goal</h3>
+
+Building AI-powered solutions that transform raw data into actionable
+insights and real-world impact.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
